@@ -5,7 +5,9 @@
 - Role: Product Manager / Product Designer
 - Period: 2026.01 - Present
 - Platform: iOS
-- Status: App Store 출시 
+- Status: App Store 출시
+
+[**View on App Store ↗**](https://apps.apple.com/us/app/clovy/id6777359516)   
 
 ---
 
